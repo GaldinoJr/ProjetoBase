@@ -1,7 +1,9 @@
-package galdino.projetobasearquiteturamvp;
+package galdino.projetobasearquiteturamvp.screens.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import galdino.projetobasearquiteturamvp.R;
 
 public class MainActivity extends AppCompatActivity {
 
